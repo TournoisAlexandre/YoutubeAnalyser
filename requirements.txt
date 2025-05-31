@@ -1,0 +1,14 @@
+# API and data handling
+google-api-python-client
+requests
+python-dotenv
+sqlalchemy
+
+# Dashboard
+streamlit
+pandas
+plotly
+st-aggrid
+
+# Utilities
+PySide6
